@@ -1,0 +1,13 @@
+baseURL = 'https://mc.rimportish.jp/'
+locale = 'ja'
+title = 'Niigata University Minecraft Club'
+copyright = 'Niigata University Minecraft Club'
+timeZone = "Asia/Tokyo"
+defaultContentLanguage = 'ja'
+
+[module]
+[[module.imports]]
+disable = false
+ignoreConfig = false
+path = 'github.com/gohugo-ananke/ananke/v2'
+

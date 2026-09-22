@@ -1,0 +1,5 @@
+[anake]
+show_recent_posts = true
+[parms]
+recent_posts_number = 3
+mainSections = ["posts"]
