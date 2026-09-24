@@ -1,3 +1,5 @@
+<!--This content is licensed under CC BY-SA 4.0-->
+
 +++
 title = "Niigata University Minecraft Club"
 featured_image = "/images/hero.webp"
