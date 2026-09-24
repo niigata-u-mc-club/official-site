@@ -4,6 +4,7 @@ title = 'Niigata University Minecraft Club'
 copyright = 'Niigata University Minecraft Club'
 timeZone = "Asia/Tokyo"
 defaultContentLanguage = 'ja'
+hasCJKLanguage = true
 
 [module]
 [[module.imports]]
