@@ -5,7 +5,6 @@ author = 'Shunsuke Yamamoto'
 draft = false
 featured_image = "/images/hero.webp"
 +++
-# 挨拶
 はじめまして。新潟大学マインクラフト同好会（以下、新大マイクラ同好会）の管理人を務めている山本です。  
 <!--more-->
 私のXを見た方ならご存知のことかと思いますが、実は新大マイクラ同好会は、本年８月に私が設立した同好会です。  
