@@ -1,7 +1,7 @@
 baseURL = 'https://mc.rimportish.jp/'
 locale = 'ja'
 title = 'Niigata University Minecraft Club'
-copyright = 'Niigata University Minecraft Club'
+copyright = 'Shunsuke Yamamoto'
 timeZone = "Asia/Tokyo"
 defaultContentLanguage = 'ja'
 hasCJKLanguage = true
