@@ -1,0 +1,159 @@
+[33mcommit 5889e02b5b64df1f2d75a37b73c6d68eb8522083[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Thu Nov 19 06:25:15 2026 +0900
+
+    add: スペック増強の記事を追加
+
+[33mcommit 71c416404963d7a65a0799e9f90f804a07e3737d[m
+Merge: 6415bae 6d8e7df
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Tue Nov 3 04:27:34 2026 +0900
+
+    Merge branch 'main' of github.com:niigata-u-mc-club/official-site
+
+[33mcommit 6415bae1b298155fdc6adf83251f2fa5e10afdcd[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Tue Nov 3 04:23:27 2026 +0900
+
+    fix: いらん表現を消しました
+
+[33mcommit 6d8e7dfd15918cca4b6507a86be4353c21cc0da4[m
+Author: 山本絢介 <syunsuke116.main@gmail.com>
+Date:   Sat Oct 3 16:37:07 2026 +0900
+
+    hugo.toml を更新
+
+[33mcommit 6bf6acabc74b3ed8d7fff2a50fcf9c63b6b47e3e[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Sun Sep 27 19:58:44 2026 +0900
+
+    fix: 最初の記事を更に修正
+
+[33mcommit 8aae7d28ee56cc0c532571dfb0f8ddcd34b66800[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Sun Sep 27 16:50:44 2026 +0900
+
+    fix: 誤字脱字を修正
+
+[33mcommit 2a37ff5e7fce533fa90dad1b7bb038584f9858a3[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Sun Sep 27 16:36:36 2026 +0900
+
+    fix: 最初の記事を修正。内容がカスすぎた
+
+[33mcommit 922f30610aae014323b354737e8eea49bf53466c[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Thu Sep 24 14:32:34 2026 +0900
+
+    fix: 記事のリライト
+
+[33mcommit 5788e3036f56a965e2f81072c967d0c4b6fcf53e[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Thu Sep 24 14:27:40 2026 +0900
+
+    fix: トップページの表示崩れを解消
+
+[33mcommit 07c38ae76580d258399ba9518f2e4a65fd19e0e9[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Thu Sep 24 14:15:53 2026 +0900
+
+    fix: 秘密鍵がcommitされていました！
+
+[33mcommit 1787a206bdff1cee29e0f32a75845fb13bb388db[m
+Author: 山本絢介 <syunsuke116.main@gmail.com>
+Date:   Thu Sep 24 13:24:39 2026 +0900
+
+    Add LICENSE file with CC BY-SA 4.0 notice
+
+[33mcommit 4c816711fa82f306747e51adc39b82cad427084e[m
+Author: 山本絢介 <syunsuke116.main@gmail.com>
+Date:   Thu Sep 24 13:20:23 2026 +0900
+
+    Add license comment to _index.md
+
+[33mcommit 59d942b5867b592635cb639d4b487f13611953d6[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Thu Sep 24 13:12:00 2026 +0900
+
+    article: 最初の記事を追加
+
+[33mcommit 88057393fc9defc52a325a7b6cfccb2c49e81da8[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Thu Sep 24 07:51:25 2026 +0900
+
+    feat: CI/CDの動作確認のために記事を少し更新
+
+[33mcommit 5cff465608e8cb3530b455e36bacbc3dd67c0321[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Thu Sep 24 07:22:55 2026 +0900
+
+    build: github actionsのymlファイルを追加
+
+[33mcommit 8bb6147fa832e789b0e3b2b7ebc565241c0e168e[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Thu Sep 24 06:59:39 2026 +0900
+
+    chore: LICENSEに団体名を追加
+
+[33mcommit 56334a36bcd0eea0f5de3522c28523269e27485f[m
+Author: 山本絢介 <syunsuke116.main@gmail.com>
+Date:   Wed Sep 23 12:13:07 2026 +0900
+
+    Add Apache License 2.0
+    
+    Added the Apache License 2.0 to the project.
+
+[33mcommit 17f82b1affa3351b687d1a91614dadec2957f240[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Wed Sep 23 12:12:08 2026 +0900
+
+    chore: licenseの認識が直らないので一旦ライセンスを削除
+
+[33mcommit 4aea3607570a745a2feedccdc9aaa22085497fe3[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Wed Sep 23 12:09:39 2026 +0900
+
+    chore: githubでライセンスがothersになる問題を修正。
+
+[33mcommit 727db9992b1a633a5dbff935d697ea63ff8c3f69[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Wed Sep 23 12:06:31 2026 +0900
+
+    chore: README.mdと矛盾するため、ライセンスをMITからApacheへ変更。
+
+[33mcommit cc522af25c3ee09c495f0b415e209bd91f907225[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Wed Sep 23 11:49:34 2026 +0900
+
+    docs: README.mdにpublicディレクトリを削除した旨を追記。
+
+[33mcommit fafe5b0462d0d504cf78912e086b3447026ea672[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Wed Sep 23 11:48:39 2026 +0900
+
+    chore: .gitignoreにpublicディレクトリを追加
+
+[33mcommit 15c58b5ee17061e82fc98167756b7046ffb570a0[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Wed Sep 23 11:25:33 2026 +0900
+
+    docs: README.mdにライセンス周りの情報を追記。誤字脱字の訂正してくだされば幸いです
+
+[33mcommit 2009d4bec0f6153c47c635e9bd53276b576aee75[m
+Merge: 047036c 4643b3e
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Wed Sep 23 08:41:50 2026 +0900
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 047036c4c32106a40121152c00d252786ce8782f[m
+Author: Shunsuke Yamamoto <syunsuke116.main@gmail.com>
+Date:   Wed Sep 23 08:33:27 2026 +0900
+
+    chore: the first commit
+
+[33mcommit 4643b3ee30239281634ebacb77bef3bfad5aa636[m
+Author: 山本絢介 <syunsuke116.main@gmail.com>
+Date:   Wed Sep 23 08:30:57 2026 +0900
+
+    Initial commit
